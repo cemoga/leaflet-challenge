@@ -1,0 +1,87 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 5px;
+  font-family: Sanchez, serif;
+  font-size: 16px;
+  line-height: 13px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.one {
+  vertical-align: middle;
+  font-size: xx-large;
+  color: #00CC10
+}
+
+.two {
+  vertical-align: middle;
+  font-size: xx-large;
+  color: #48D100
+}
+
+.three {
+  vertical-align: middle;
+  font-size: xx-large;
+  color: #A6D600;
+  display:  ;
+}
+
+.four {
+  vertical-align: middle;
+  font-size: xx-large;
+  color: #DBAD00
+}
+
+.five {
+  vertical-align: middle;
+  font-size: xx-large;
+  color: #E05100
+}
+
+.six {
+  vertical-align: middle;
+  font-size: xx-large;
+  color: #E5000E
+}
+
+#in-line {
+  vertical-align: middle;
+  color: rgb(69, 69, 69);
+}
+
+h3 {
+font-size: small;
+margin-top: 0 ;
+margin-bottom: 0;
+}
+
+p {
+  font-size: small;
+  margin-top: 0 ;
+  margin-bottom: 0;
+  display: inline-block;
+  }
+
+hr {
+	background: red; 
+	border: 1; 
+  height: 1px; 
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
