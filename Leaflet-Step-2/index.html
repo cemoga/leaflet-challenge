@@ -22,39 +22,31 @@
 </head>
 
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1> All Earthquakes <br> from the Past 7 Days </h1>
-        <h3><b>Earthquake Data:</b> <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php" target="_blank" >United States Geological Survey (USGS)</a></h3>
-        <h3><b>Tectonic Plates Data:</b> <a href="https://github.com/fraxen/tectonicplates" target="_blank">https://github.com/fraxen/tectonicplates</a></h3>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <!-- The div that holds our map -->
-        <div id="map"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
-        <br>
-      </div>
+
+  <div class="col-md-12 jumbotron jumbotron-fluid text-center">
+    <div class="container">
+      <h1> All Earthquakes <br> from the Past 7 Days </h1>
+      <h3><b>Earthquake Data:</b> <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          target="_blank">United States Geological Survey (USGS)</a></h3>
+      <h3><b>Tectonic Plates Data:</b> <a href="https://github.com/fraxen/tectonicplates"
+          target="_blank">https://github.com/fraxen/tectonicplates</a></h3>
     </div>
   </div>
 
+  <div id="map"></div>
 
   <!-- Footer-->
   <div id="footer">
-      <p>© Copyright Cesar Mosquera 2019:</p>
-      <a href="https://www.linkedin.com/in/cesarmosquera/en" target="_blank" style="color: white;"><u>Cesar
-          Mosquera</u></a>
+    <p>© Copyright Cesar Mosquera 2019:</p>
+    <a href="https://www.linkedin.com/in/cesarmosquera/en" target="_blank" style="color: white;"><u>Cesar
+        Mosquera</u></a>
 
-
-
-
-  <!-- D3 JavaScript -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
-  <!-- API key -->
-  <script type="text/javascript" src="static/js/config.js"></script>
-  <!-- Our JavaScript -->
-  <script type="text/javascript" src="static/js/logic.js"></script>
+    <!-- D3 JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js"></script>
+    <!-- Our JavaScript -->
+    <script type="text/javascript" src="static/js/logic.js"></script>
 </body>
 
 
