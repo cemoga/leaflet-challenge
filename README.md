@@ -1,9 +1,9 @@
 # Project Leaflet
 
 ## Project Description
-The goal of the project is to use the `Javascript-Leaflet` library to create multiple and interactive maps using `HTML`, `CSS`, `Bootstrap`, and `Javascript`. The Mapbox-API was also used to load the base maps. The project was divided in two steps with different levels of complexity.
+The goal of the project is to use the `Javascript-Leaflet` library to create multiple and interactive maps using `HTML`, `CSS`, `Bootstrap`, and `Javascript`. The Mapbox-API was also used to load the base maps. The project was divided into two steps with different levels of complexity.
 - **Step 1:**
-A single base layer and one set of data was used:
+A single base layer and one set of data were used:
     * **Base layer:** [mapbox.streets-basic](https://docs.mapbox.com/api/maps/#raster-tiles)
     * **Data layer Source and Data:** 
         * **Source:** [United States Geological Survey (USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
@@ -51,7 +51,7 @@ Multiple optional and interactive base layers were included. An additional datas
 ## Instructions
 
 #### Steps
-1. - Donwload or clone all the files contained in this repo.
+1. - Download or clone all the files contained in this repo.
 2. - Create a [Mapbox Token](https://account.mapbox.com/auth/signup/)
 3. - Include your `Mapbox Token` in the `/Leaflet-Step-1/static/js/config.js` file.
 3. - Run a python -m http.server or any other method for this purpose.
@@ -59,16 +59,16 @@ Multiple optional and interactive base layers were included. An additional datas
 
 # File Description
 ## - Leaflet-Step-1
-- Contains all the files for the first part of the project.
+- It contains all the files for the first part of the project.
 ### - index.html
-- Contains the html code that drive the maps and references the requiered libraries
+- Contains the html code that drives the maps and references the required libraries
 ### - static
-- Contains the `css` file with the formatting information
-- Contains the `js` with the `Javascript` code using the D3 library for the interactive plots.
+- It contains the `css` file with the formatting information
+- It contains the `js` with the `Javascript` code using the D3 library for the interactive plots.
 ### - Screenshots
-- Contains the `gif` and `png` files with screenshots of the app running
+- It contains the `gif` and `png` files with screenshots of the app running
 ## - Leaflet-Step-2
-- Contains all the files for the second part of the project.
+- It contains all the files for the second part of the project.
 - All folder are the same with this exception:
 ### - static
-- Contains and additional folder that contains the `json` file with the tectonic-plate-boundaries information
+- It contains and additional folder that contains the `json` file with the tectonic-plate-boundaries information
