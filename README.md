@@ -20,9 +20,9 @@ Multiple optional and interactive base layers were included. An additional datas
         * **Layer 1:** Earthquake information
             * **Source:** [United States Geological Survey (USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
             * **Data:** [Earthquakes - Last 7 days - All Earthquakes)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
-    * **Layer 2:** Tectonic Plates
-        * **Source:** [Hugo Ahlenius, GIS-and-Cartography Consultant](https://github.com/fraxen/tectonicplates)
-    * **Data:** [Tectonic Plates Boundaries](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+        * **Layer 2:** Tectonic Plates
+            * **Source:** [Hugo Ahlenius, GIS-and-Cartography Consultant](https://github.com/fraxen/tectonicplates)
+            * **Data:** [Tectonic Plates Boundaries](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
 
 ## Libraries Required (already included in the index.html file):
 - D3 JavaScript
@@ -30,18 +30,20 @@ Multiple optional and interactive base layers were included. An additional datas
 
 ### App Running 
 <hr>
-- Step 2:
+
+- **Step 2:**
 
 ![App Running](Screenshots/step-2.gif "App Running")
 <hr>
 
 ### Sample app Screenshot
 <hr> 
-- Step 1:
+
+- **Step 1:**
 
 ![Screenshot](Screenshots/step-1.png "Screenshot")
 
-- Step 2:
+- **Step 2:**
 
 ![Screenshot](Screenshots/step-2.png "Screenshot")
 <hr>
