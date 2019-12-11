@@ -85,3 +85,31 @@ hr {
 }
 
 
+#footer {
+  position: relative;
+  bottom: 0;
+  width: 100%; /* Set the fixed height of the footer here */
+  height: 50px;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  text-align: center;
+  background-color: rgb(41, 101, 168); 
+  color: white
+}
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.jumbotron {
+  padding: 1em; 
+  background: url("banner.png") no-repeat center center; 
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% auto;
+  color:  white;
+  color:  rgb(6, 50, 99);
+  font-size: 3vw
+  }
