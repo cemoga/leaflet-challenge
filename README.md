@@ -1,4 +1,4 @@
-# Project Leaflet
+# Leaflet Project 
 
 ## Project Description
 The goal of the project is to use the `Javascript-Leaflet` library to create multiple and interactive maps using `HTML`, `CSS`, `Bootstrap`, and `Javascript`. The Mapbox-API was also used to load the base maps. The project was divided into two steps with different levels of complexity.
