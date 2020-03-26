@@ -1,7 +1,7 @@
-# Leaflet Project 
+# Location and Magnitude of Earthquakes in the Past 7 Days
 
 ## Project Description
-The goal of the project is to use the `Javascript-Leaflet` library to create multiple and interactive maps using `HTML`, `CSS`, `Bootstrap`, and `Javascript`. The Mapbox-API was also used to load the base maps. The project was divided into two steps with different levels of complexity.
+The goal of the project is to display multiple and interactive maps showing the location and magnitude of earthquakes during the last 7 days around the world. The `Javascript-Leaflet` library, `HTML`, `CSS`, `Bootstrap`, and `Javascript` were used in the project. The Mapbox-API was also used to load the base maps. The project was divided into two steps with different levels of complexity.
 - **Step 1:**
 A single base layer and one set of data were used:
     * **Base layer:** [mapbox.streets-basic](https://docs.mapbox.com/api/maps/#raster-tiles)
