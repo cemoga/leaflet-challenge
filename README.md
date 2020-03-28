@@ -1,5 +1,12 @@
 # Location and Magnitude of Earthquakes in the Past 7 Days
 
+<hr>
+
+![App Running](Screenshots/step-2.gif "App Running")
+
+<hr>
+
+
 ## Project Description
 
 The goal of the project is to display multiple and interactive maps with the location and magnitude of earthquakes during the last 7 days around the world. The `Javascript-Leaflet` library, `HTML`, `CSS`, `Bootstrap`, and `Javascript` were used in the project. The Mapbox-API was also used to load the base maps. The project was divided into two steps with different levels of complexity.
@@ -33,16 +40,6 @@ Multiple optional and interactive base layers were included. An additional datas
 
 - D3 JavaScript
 - Leaflet
-
-### App Running
-
-<hr>
-
-- **Step 2:**
-
-![App Running](Screenshots/step-2.gif "App Running")
-
-<hr>
 
 ### Sample app Screenshot
 
