@@ -1,7 +1,5 @@
 # Location and Magnitude of Earthquakes in the Past 7 Days
 
-<hr>
-
 ![App Running](Screenshots/step-2.gif "App Running")
 
 <hr>
