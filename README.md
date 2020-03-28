@@ -10,26 +10,27 @@ The goal of the project is to display multiple and interactive maps with the loc
 
 - **Step 1:**
 A single base layer and one set of data were used:
-  - **Base layer:** [mapbox.streets-basic](https://docs.mapbox.com/api/maps/#raster-tiles)
+  - **Base layer:** <a href="https://docs.mapbox.com/api/maps/#raster-tiles" target="_blank">mapbox.streets-basic</a>
   - **Data layer Source and Data:**
-    - **Source:** [United States Geological Survey (USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-    - **Data:** [Earthquakes - Last 7 days - All Earthquakes)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+    - **Source:** <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php" target="_blank">United States Geological Survey (USGS)</a>
+    - **Data:** <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson" target="_blank">Earthquakes - Last 7 days - All Earthquakes</a>
 
 - **Step 2:**
 Multiple optional and interactive base layers were included. An additional dataset and plot were included and they can be activated and deactivated by the user.
   - **Base layer:**
-    - [mapbox.light](https://docs.mapbox.com/api/maps) 
-    - [mapbox.streets](https://docs.mapbox.com/api/maps)
-    - [mapbox.dark](https://docs.mapbox.com/api/maps)
-    - [mapbox.satellite](https://docs.mapbox.com/api/maps)
-    - [mapbox.outdoors](https://docs.mapbox.com/api/maps)
+    - <a href="https://docs.mapbox.com/api/maps" target="_blank">mapbox.light</a>
+    - <a href="https://docs.mapbox.com/api/maps" target="_blank">mapbox.streets</a>
+    - <a href="https://docs.mapbox.com/api/maps" target="_blank">mapbox.dark</a>
+    - <a href="https://docs.mapbox.com/api/maps" target="_blank">mapbox.satellite</a>
+    - <a href="https://docs.mapbox.com/api/maps" target="_blank">mapbox.outdoors</a>
+
   - **Data layer Source and Data:**
     - **Layer 1** Earthquake information
-      - **Source:** [United States Geological Survey (USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-      - **Data:** [Earthquakes - Last 7 days - All Earthquakes)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+      - **Source:** <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php" target="_blank">United States Geological Survey (USGS)</a>
+    - **Data:** <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson" target="_blank">Earthquakes - Last 7 days - All Earthquakes</a>
     - **Layer 2:** Tectonic Plates
-      - **Source:** [Hugo Ahlenius, GIS-and-Cartography Consultant](https://github.com/fraxen/tectonicplates)
-      - **Data:** [Tectonic Plates Boundaries](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+      - **Source:** <a href="https://github.com/fraxen/tectonicplates" target="_blank">Hugo Ahlenius, GIS-and-Cartography Consultant</a>
+      - **Data:** <a href="https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json" target="_blank">Tectonic Plates Boundaries</a>
 
 ## Libraries Required (already included in the index.html file)
 
