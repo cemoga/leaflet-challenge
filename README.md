@@ -59,7 +59,7 @@ Multiple optional and interactive base layers were included. An additional datas
 
 1. - Download or clone all the files contained in this repo.
 2. - Create a [Mapbox Token](https://account.mapbox.com/auth/signup/)
-3. - Include your `Mapbox Token` in the `/Leaflet-Step-1/static/js/config.js` file.
+3. - Include your `Mapbox Token` in the `/Leaflet-Step-1/static/js/config.js` and `/Leaflet-Step-2/static/js/config.js` files.
 4. - Run a python -m http.server or any other method for this purpose.
 5. - Load the `Leaflet-Step-1/index.html` and `Leaflet-Step-2/index.html` files.
 
