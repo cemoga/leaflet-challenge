@@ -36,9 +36,9 @@ Multiple optional and interactive base layers were included. An additional datas
 - D3 JavaScript
 - Leaflet
 
-### Sample app Screenshot
-
 ---
+
+### Sample app Screenshot
 
 - **Step 1:**
 
@@ -60,30 +60,32 @@ Multiple optional and interactive base layers were included. An additional datas
 4. Run a python -m http.server or any other method for this purpose.
 5. Load the `Leaflet-Step-1/index.html` and `Leaflet-Step-2/index.html` files.
 
+---
+
 ## File Description
 
-### - Leaflet-Step-1
+### Leaflet-Step-1
 
 - It contains all the files for the first part of the project.
 
-#### - index.html
+#### index.html
 
 - Contains the HTML code that drives the maps and references the required libraries
 
-#### - static
+#### static
 
 - It contains the `CSS` file with the formatting information
 - It contains the `js` with the `Javascript` code using the D3 library for the interactive plots.
 
-#### - Screenshots
+#### Screenshots
 
 - It contains the `gif` and `png` files with screenshots of the app running
 
-### - Leaflet-Step-2
+### Leaflet-Step-2
 
 - It contains all the files for the second part of the project.
 - All folder are the same with this exception:
 
-#### - static (2)
+#### static (2)
 
 - It contains an additional folder that contains the `JSON` file with the tectonic-plate-boundaries information
